@@ -31,7 +31,7 @@ Cílem tohoto úkolu je hlavně vyzkoušet si základní práci s generátorem s
   - v šabloně uprav menu, aby ukazovalo na správné adresy stránek, až Eleventy vygeneruje výsledný web
 - **Práce s Gitem**
   - ověř, že v souboru *.gitignore* ignorujeme složku *_site* a *node_modules*, protože ani jednu z nich v Gitu nechceme ukládat
-  - proveď commit a push řešení na GitHub
+  - proveď commit a push řešení na aGitHub
 - **Netlify**
   - pokud ještě nemáš, tak si vytvoř účet na [Netlify](https://netlify.com)
   - na Netlify si založ nový web podle instrukcí v lekci **Eleventy - Publikování na Netlify**
